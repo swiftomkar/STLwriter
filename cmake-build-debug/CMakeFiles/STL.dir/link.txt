@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2017.2.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\STL.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\STL.dir/objects.a @CMakeFiles\STL.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\STL.dir/objects.a -Wl,--no-whole-archive  -o STL.exe -Wl,--out-implib,libSTL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\STL.dir\linklibs.rsp

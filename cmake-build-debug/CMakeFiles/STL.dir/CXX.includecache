@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Omkar Desai/Documents/C++/Data structures/STL/CAD.cpp
+CAD.h
+C:/Users/Omkar Desai/Documents/C++/Data structures/STL/CAD.h
+
+C:/Users/Omkar Desai/Documents/C++/Data structures/STL/CAD.h
+vector
+-
+iostream
+-
+fstream
+-
+vector.h
+C:/Users/Omkar Desai/Documents/C++/Data structures/STL/vector.h
+
+C:/Users/Omkar Desai/Documents/C++/Data structures/STL/main.cpp
+iostream
+-
+CAD.h
+C:/Users/Omkar Desai/Documents/C++/Data structures/STL/CAD.h
+vector.h
+C:/Users/Omkar Desai/Documents/C++/Data structures/STL/vector.h
+
+C:/Users/Omkar Desai/Documents/C++/Data structures/STL/vector.h
+iostream
+-
+cmath
+-
+
