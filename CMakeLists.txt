@@ -3,5 +3,5 @@ project(STL)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp CAD.cpp CAD.h)
+set(SOURCE_FILES main.cpp CAD.cpp CAD.h transformations.cpp transformations.h world.cpp world.h)
 add_executable(STL ${SOURCE_FILES})

@@ -91,6 +91,18 @@
 		<Unit filename="C:/Users/Omkar Desai/Documents/C++/Data structures/STL/main.cpp">
 			<Option target="STL"/>
 		</Unit>
+		<Unit filename="C:/Users/Omkar Desai/Documents/C++/Data structures/STL/transformations.cpp">
+			<Option target="STL"/>
+		</Unit>
+		<Unit filename="C:/Users/Omkar Desai/Documents/C++/Data structures/STL/transformations.h">
+			<Option target="STL"/>
+		</Unit>
+		<Unit filename="C:/Users/Omkar Desai/Documents/C++/Data structures/STL/world.cpp">
+			<Option target="STL"/>
+		</Unit>
+		<Unit filename="C:/Users/Omkar Desai/Documents/C++/Data structures/STL/world.h">
+			<Option target="STL"/>
+		</Unit>
 		<Unit filename="C:/Users/Omkar Desai/Documents/C++/Data structures/STL/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

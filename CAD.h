@@ -4,9 +4,9 @@
 #include <vector>
 #include <iostream>
 #include <fstream>
-#include "vector.h"
 
 #pragma once
+
 class Shape {
 private:
     double x,y,z;
@@ -41,8 +41,10 @@ private:
 public:
     SCAD();
     void add(Shape* a);
-    void write(std::string a,double first, double second, double third);
-    void CubeGen(std::string a);
+    void write(double first, double second, double third);
+    //void writec(double first, double second, double third);
+    void CubeGen();
+    void Cylgen();
 
     ~SCAD();
 };

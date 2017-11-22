@@ -6,6 +6,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Omkar Desai/Documents/C++/Data structures/STL/CAD.cpp" "C:/Users/Omkar Desai/Documents/C++/Data structures/STL/cmake-build-debug/CMakeFiles/STL.dir/CAD.cpp.obj"
   "C:/Users/Omkar Desai/Documents/C++/Data structures/STL/main.cpp" "C:/Users/Omkar Desai/Documents/C++/Data structures/STL/cmake-build-debug/CMakeFiles/STL.dir/main.cpp.obj"
+  "C:/Users/Omkar Desai/Documents/C++/Data structures/STL/transformations.cpp" "C:/Users/Omkar Desai/Documents/C++/Data structures/STL/cmake-build-debug/CMakeFiles/STL.dir/transformations.cpp.obj"
+  "C:/Users/Omkar Desai/Documents/C++/Data structures/STL/world.cpp" "C:/Users/Omkar Desai/Documents/C++/Data structures/STL/cmake-build-debug/CMakeFiles/STL.dir/world.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

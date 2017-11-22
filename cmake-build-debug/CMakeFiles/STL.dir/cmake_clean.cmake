@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/STL.dir/main.cpp.obj"
   "CMakeFiles/STL.dir/CAD.cpp.obj"
+  "CMakeFiles/STL.dir/transformations.cpp.obj"
+  "CMakeFiles/STL.dir/world.cpp.obj"
   "STL.pdb"
   "STL.exe"
   "STL.exe.manifest"

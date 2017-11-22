@@ -3,9 +3,19 @@
 
 CMakeFiles/STL.dir/CAD.cpp.obj: ../CAD.cpp
 CMakeFiles/STL.dir/CAD.cpp.obj: ../CAD.h
-CMakeFiles/STL.dir/CAD.cpp.obj: ../vector.h
 
 CMakeFiles/STL.dir/main.cpp.obj: ../CAD.h
 CMakeFiles/STL.dir/main.cpp.obj: ../main.cpp
-CMakeFiles/STL.dir/main.cpp.obj: ../vector.h
+CMakeFiles/STL.dir/main.cpp.obj: ../transformations.h
+CMakeFiles/STL.dir/main.cpp.obj: ../world.h
+
+CMakeFiles/STL.dir/transformations.cpp.obj: ../CAD.cpp
+CMakeFiles/STL.dir/transformations.cpp.obj: ../CAD.h
+CMakeFiles/STL.dir/transformations.cpp.obj: ../transformations.cpp
+CMakeFiles/STL.dir/transformations.cpp.obj: ../transformations.h
+
+CMakeFiles/STL.dir/world.cpp.obj: ../CAD.h
+CMakeFiles/STL.dir/world.cpp.obj: ../transformations.h
+CMakeFiles/STL.dir/world.cpp.obj: ../world.cpp
+CMakeFiles/STL.dir/world.cpp.obj: ../world.h
 

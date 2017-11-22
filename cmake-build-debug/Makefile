@@ -176,6 +176,60 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\STL.dir\build.make CMakeFiles/STL.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+transformations.obj: transformations.cpp.obj
+
+.PHONY : transformations.obj
+
+# target to build an object file
+transformations.cpp.obj:
+	$(MAKE) -f CMakeFiles\STL.dir\build.make CMakeFiles/STL.dir/transformations.cpp.obj
+.PHONY : transformations.cpp.obj
+
+transformations.i: transformations.cpp.i
+
+.PHONY : transformations.i
+
+# target to preprocess a source file
+transformations.cpp.i:
+	$(MAKE) -f CMakeFiles\STL.dir\build.make CMakeFiles/STL.dir/transformations.cpp.i
+.PHONY : transformations.cpp.i
+
+transformations.s: transformations.cpp.s
+
+.PHONY : transformations.s
+
+# target to generate assembly for a file
+transformations.cpp.s:
+	$(MAKE) -f CMakeFiles\STL.dir\build.make CMakeFiles/STL.dir/transformations.cpp.s
+.PHONY : transformations.cpp.s
+
+world.obj: world.cpp.obj
+
+.PHONY : world.obj
+
+# target to build an object file
+world.cpp.obj:
+	$(MAKE) -f CMakeFiles\STL.dir\build.make CMakeFiles/STL.dir/world.cpp.obj
+.PHONY : world.cpp.obj
+
+world.i: world.cpp.i
+
+.PHONY : world.i
+
+# target to preprocess a source file
+world.cpp.i:
+	$(MAKE) -f CMakeFiles\STL.dir\build.make CMakeFiles/STL.dir/world.cpp.i
+.PHONY : world.cpp.i
+
+world.s: world.cpp.s
+
+.PHONY : world.s
+
+# target to generate assembly for a file
+world.cpp.s:
+	$(MAKE) -f CMakeFiles\STL.dir\build.make CMakeFiles/STL.dir/world.cpp.s
+.PHONY : world.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -191,6 +245,12 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... transformations.obj
+	@echo ... transformations.i
+	@echo ... transformations.s
+	@echo ... world.obj
+	@echo ... world.i
+	@echo ... world.s
 .PHONY : help
 
 
